@@ -1,5 +1,9 @@
 # Qlik data load process for X-Kingdom application
 
+The X-kingdom knowledge graph allows us to connect data from different sources and combine them into an interactive relational database to identify associations between these distinct data types (listed in table X). Figure X below shows the key fields that are used to connect these data for analysis.&#x20;
+
+<figure><img src="../.gitbook/assets/Kingdom_meta-data_structure_May_2022.png" alt=""><figcaption></figcaption></figure>
+
 The provided text appears to be a load script for a data processing system. The script is defining a series of "Syn" variables that represent different combinations of data fields and metadata to be used in the data processing pipeline. Here is a summary of what the script is doing:
 
 ### Data Fields and Metadata
